@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+.navbar{
+    border: black solid 2px;
+    background-color: lightslategray;
+}
+.navbar-header{
+    line-height: 1;
+}
+.navbar-brand{
+    color: black;
+}
+.navbar-toggler{
+    border: 2px solid black;
+    padding: 0px;
+}
+#navbarSupportedContent{
+    background-color: cadetblue;
+    width: 100%;
+}
+button div{
+    margin: 0px;
+}
+.display-4{
+    font-weight: bold;
+    font-size: 2.5em;
+}
+li {
+    border: solid black 2px;
+    text-align: center;
+    padding:2px;
+}
+.row > div{
+    background-color: lightslategray;
+}
+.my-h2{
+    text-align: center;
+    color: black;
+}
+.my-div{
+    color: black;
+    font-size: 20px;
+}
